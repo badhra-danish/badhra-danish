@@ -10,9 +10,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a Full Stack Developer specializing in the MERN stack, with experience in building scalable and user-friendly web applications. I work with React, Node.js, Express, and MySQL to develop end-to-end solutions, focusing on performance, clean architecture, and maintainable code.
-- I have hands-on experience in developing real-world applications, including user management systems, authentication flows, and dashboard-based projects with CRUD operations. I am particularly interested in backend development, API design, and system architecture.
-- Currently, I am expanding my skills in advanced backend development, authentication systems, and full-stack project deployment. I am passionate about continuous learning and building solutions that solve real-world problems.
+MERN Stack Developer @ Quba Infotech | Building full-stack web applications
+
+I'm a full-stack developer with 1 year of professional experience building production-grade web applications — from hospital and school ERP systems to e-commerce platforms — using the MERN stack and modern React tooling.
 
 
 ## 📊 GitHub Stats & Trophies
